@@ -371,152 +371,145 @@ I 06/10/2012 17:03:40:826 00000a3c           HttpServer| Stopping server...
 I 06/10/2012 17:03:40:828 00002ac8            RhodesApp| RhodesApp thread shutdown
 I 06/10/2012 17:03:40:829 00002ac8          GeoLocation| Destroying singleton instance.
 I 06/10/2012 17:03:40:829 00002ac8                 Sync| Stopping Sync thread
- 15:31:35:292 00002ac8           HttpServer| GC Start.
-I 06/10/2012 15:31:35:293 00002ac8           HttpServer| GC End.
-I 06/10/2012 15:31:35:295 00000a3c           MainWindow| WebView: URL changed
-I 06/10/2012 15:31:35:351 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
-I 06/10/2012 15:31:35:356 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
-I 06/10/2012 15:31:35:357 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
-I 06/10/2012 15:31:35:359 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 06/10/2012 15:31:35:359 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
-I 06/10/2012 15:31:35:362 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
-I 06/10/2012 15:31:35:425 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 06/10/2012 15:31:35:426 00002ac8           HttpServer| Process URI: '/public/css/android.css'
-I 06/10/2012 15:31:35:427 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
-I 06/10/2012 15:31:35:621 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
-I 06/10/2012 15:31:35:665 00000a3c           MainWindow| WebView: loaded 
-I 06/10/2012 15:31:42:859 00000a3c           MainWindow| WebView: loading...
-I 06/10/2012 15:31:42:862 00002ac8           HttpServer| Process URI: '/app/index.erb'
-I 06/10/2012 15:31:42:862 00002ac8                  APP| RHO serve_index: /app/index.erb
-I 06/10/2012 15:31:42:862 00002ac8 RHO Rho::RhoController| inst_render_index
-I 06/10/2012 15:31:42:862 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
-I 06/10/2012 15:31:42:864 00002ac8 RHO Rho::RhoController| index layout
-I 06/10/2012 15:31:42:864 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
-I 06/10/2012 15:31:42:867 00002ac8           HttpServer| GC Start.
-I 06/10/2012 15:31:42:868 00002ac8           HttpServer| GC End.
-I 06/10/2012 15:31:42:868 00000a3c           MainWindow| WebView: URL changed
-I 06/10/2012 15:31:42:895 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
-I 06/10/2012 15:31:42:903 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
-I 06/10/2012 15:31:42:905 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
-I 06/10/2012 15:31:42:907 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 06/10/2012 15:31:42:908 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
-I 06/10/2012 15:31:42:909 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
-I 06/10/2012 15:31:42:964 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 06/10/2012 15:31:42:965 00002ac8           HttpServer| Process URI: '/public/css/android.css'
-I 06/10/2012 15:31:42:966 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
-I 06/10/2012 15:31:43:148 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
-I 06/10/2012 15:31:43:222 00000a3c           MainWindow| WebView: loaded 
-I 06/10/2012 15:33:12:337 00000a3c           MainWindow| WebView: loading...
-I 06/10/2012 15:33:12:339 00002ac8           HttpServer| Process URI: '/app/index.erb'
-I 06/10/2012 15:33:12:339 00002ac8                  APP| RHO serve_index: /app/index.erb
-I 06/10/2012 15:33:12:340 00002ac8 RHO Rho::RhoController| inst_render_index
-I 06/10/2012 15:33:12:340 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
-I 06/10/2012 15:33:12:341 00002ac8 RHO Rho::RhoController| index layout
-I 06/10/2012 15:33:12:342 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
-I 06/10/2012 15:33:12:344 00002ac8           HttpServer| GC Start.
-I 06/10/2012 15:33:12:346 00002ac8           HttpServer| GC End.
-I 06/10/2012 15:33:12:346 00000a3c           MainWindow| WebView: URL changed
-I 06/10/2012 15:33:12:372 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
-I 06/10/2012 15:33:12:380 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
-I 06/10/2012 15:33:12:382 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
-I 06/10/2012 15:33:12:383 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 06/10/2012 15:33:12:384 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
-I 06/10/2012 15:33:12:385 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
-I 06/10/2012 15:33:12:442 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 06/10/2012 15:33:12:443 00002ac8           HttpServer| Process URI: '/public/css/android.css'
-I 06/10/2012 15:33:12:444 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
-I 06/10/2012 15:33:12:637 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
-I 06/10/2012 15:33:12:719 00000a3c           MainWindow| WebView: loaded 
-I 06/10/2012 15:33:17:763 00000a3c           MainWindow| WebView: loading...
-I 06/10/2012 15:33:17:765 00002ac8           HttpServer| Process URI: '/app/index.erb'
-I 06/10/2012 15:33:17:766 00002ac8                  APP| RHO serve_index: /app/index.erb
-I 06/10/2012 15:33:17:766 00002ac8 RHO Rho::RhoController| inst_render_index
-I 06/10/2012 15:33:17:766 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
-I 06/10/2012 15:33:17:768 00002ac8 RHO Rho::RhoController| index layout
-I 06/10/2012 15:33:17:768 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
-I 06/10/2012 15:33:17:770 00002ac8           HttpServer| GC Start.
-I 06/10/2012 15:33:17:772 00002ac8           HttpServer| GC End.
-I 06/10/2012 15:33:17:772 00000a3c           MainWindow| WebView: URL changed
-I 06/10/2012 15:33:17:798 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
-I 06/10/2012 15:33:17:806 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
-I 06/10/2012 15:33:17:808 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
-I 06/10/2012 15:33:17:809 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 06/10/2012 15:33:17:810 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
-I 06/10/2012 15:33:17:811 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
-I 06/10/2012 15:33:17:867 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 06/10/2012 15:33:17:868 00002ac8           HttpServer| Process URI: '/public/css/android.css'
-I 06/10/2012 15:33:17:869 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
-I 06/10/2012 15:33:18:043 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
-I 06/10/2012 15:33:18:120 00000a3c           MainWindow| WebView: loaded 
-I 06/10/2012 15:33:36:959 00000a3c           MainWindow| WebView: loading...
-I 06/10/2012 15:33:36:962 00002ac8           HttpServer| Process URI: '/app/index.erb'
-I 06/10/2012 15:33:36:962 00002ac8                  APP| RHO serve_index: /app/index.erb
-I 06/10/2012 15:33:36:962 00002ac8 RHO Rho::RhoController| inst_render_index
-I 06/10/2012 15:33:36:962 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
-I 06/10/2012 15:33:36:964 00002ac8 RHO Rho::RhoController| index layout
-I 06/10/2012 15:33:36:964 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
-I 06/10/2012 15:33:36:967 00002ac8           HttpServer| GC Start.
-I 06/10/2012 15:33:36:968 00002ac8           HttpServer| GC End.
-I 06/10/2012 15:33:36:968 00000a3c           MainWindow| WebView: URL changed
-I 06/10/2012 15:33:36:994 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
-I 06/10/2012 15:33:37:003 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
-I 06/10/2012 15:33:37:004 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
-I 06/10/2012 15:33:37:005 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 06/10/2012 15:33:37:006 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
-I 06/10/2012 15:33:37:007 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
-I 06/10/2012 15:33:37:074 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 06/10/2012 15:33:37:076 00002ac8           HttpServer| Process URI: '/public/css/android.css'
-I 06/10/2012 15:33:37:078 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
-I 06/10/2012 15:33:37:212 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
-I 06/10/2012 15:33:37:301 00000a3c           MainWindow| WebView: loaded 
-I 06/10/2012 15:36:10:604 00000a3c           MainWindow| WebView: loading...
-I 06/10/2012 15:36:10:607 00002ac8           HttpServer| Process URI: '/app/index.erb'
-I 06/10/2012 15:36:10:607 00002ac8                  APP| RHO serve_index: /app/index.erb
-I 06/10/2012 15:36:10:608 00002ac8 RHO Rho::RhoController| inst_render_index
-I 06/10/2012 15:36:10:608 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
-I 06/10/2012 15:36:10:610 00002ac8 RHO Rho::RhoController| index layout
-I 06/10/2012 15:36:10:610 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
-I 06/10/2012 15:36:10:612 00002ac8           HttpServer| GC Start.
-I 06/10/2012 15:36:10:614 00002ac8           HttpServer| GC End.
-I 06/10/2012 15:36:10:614 00000a3c           MainWindow| WebView: URL changed
-I 06/10/2012 15:36:10:640 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
-I 06/10/2012 15:36:10:650 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
-I 06/10/2012 15:36:10:651 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
-I 06/10/2012 15:36:10:653 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 06/10/2012 15:36:10:654 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
-I 06/10/2012 15:36:10:654 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
-I 06/10/2012 15:36:10:706 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 06/10/2012 15:36:10:721 00002ac8           HttpServer| Process URI: '/public/css/android.css'
-I 06/10/2012 15:36:10:722 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
-I 06/10/2012 15:36:10:868 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
-I 06/10/2012 15:36:10:951 00000a3c           MainWindow| WebView: loaded 
-I 06/10/2012 16:33:18:660 00000a3c            RhodesApp| callAppActiveCallback
-I 06/10/2012 16:33:18:661 00000a3c         AppCallbacks| addCommand: APP-DEACTIVATED
-I 06/10/2012 16:33:18:661 00000a3c                  Net| Method: GET;Url: http://127.0.0.1:52103/system/deactivateapp
-I 06/10/2012 16:33:18:661 000029b0         AppCallbacks| process command: APP-DEACTIVATED
-I 06/10/2012 16:33:18:661 000029b0         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 06/10/2012 16:33:18:948 00002ac8           HttpServer| Process URI: '/system/deactivateapp'
-I 06/10/2012 16:44:11:800 00000a3c            RhodesApp| callAppActiveCallback
-I 06/10/2012 16:44:11:800 00000a3c         AppCallbacks| addCommand: APP-ACTIVATED
-I 06/10/2012 16:44:11:801 000029b0         AppCallbacks| process command: APP-ACTIVATED
-I 06/10/2012 16:44:11:801 000029b0                  Net| Method: GET;Url: http://127.0.0.1:52103/system/activateapp
-I 06/10/2012 16:44:11:810 00002ac8           HttpServer| Process URI: '/system/activateapp'
-I 06/10/2012 16:44:11:811 000029b0         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 06/10/2012 16:44:14:079 00000a3c           MainWindow| WebView: loading...
-I 06/10/2012 16:44:14:081 00002ac8           HttpServer| Process URI: '/app/index.erb'
-I 06/10/2012 16:44:14:082 00002ac8                  APP| RHO serve_index: /app/index.erb
-I 06/10/2012 16:44:14:082 00002ac8 RHO Rho::RhoController| inst_render_index
-I 06/10/2012 16:44:14:082 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
-I 06/10/2012 16:44:14:084 00002ac8 RHO Rho::RhoController| index layout
-I 06/10/2012 16:44:14:084 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
-I 06/10/2012 16:44:14:086 00002ac8           HttpServer| GC Start.
-I 06/10/2012 16:44:14:088 00002ac8           HttpServer| GC End.
-I 06/10/2012 16:44:14:088 00000a3c           MainWindow| WebView: URL changed
-I 06/10/2012 16:44:14:116 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
-I 06/10/2012 16:44:14:127 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
-I 06/10/2012 16:44:14:128 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
-I 06/10/2012 16:44:14:130 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 06/10/2012 16:44:14:131 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 19:27:08:264 00002474            RhodesApp| New start params: "-approot='C:/Applications/placar-jiu-jitsu'" "-rhodespath='C:/MotorolaRhoMobileSuite2.0.5/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.3.3'"
+I 06/10/2012 19:27:08:264 00002474      Rhodes.cpp: 432| Rhodes started
+I 06/10/2012 19:27:08:266 00002474            RhodesApp| Trying to get free listening port.
+I 06/10/2012 19:27:08:267 00002dac         AppCallbacks| Starting main routine...
+I 06/10/2012 19:27:08:267 00002dac         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 06/10/2012 19:27:08:268 00002474            RhodesApp| Trying to bind of 0 port...
+I 06/10/2012 19:27:08:268 00002474            RhodesApp| Got port to bind on: 16316
+I 06/10/2012 19:27:08:268 00002474            RhodesApp| Free listening port: 16316
+I 06/10/2012 19:27:08:356 00002474            RhodesApp| callAppActiveCallback
+I 06/10/2012 19:27:08:356 00002474         AppCallbacks| addCommand: APP-ACTIVATED
+I 06/10/2012 19:27:08:356 00002dac         AppCallbacks| Received command APP-ACTIVATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 06/10/2012 19:27:08:357 00002dac         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 06/10/2012 19:27:08:359 00002474         AppCallbacks| addCommand: UI-CREATED
+I 06/10/2012 19:27:08:360 00002dac         AppCallbacks| Received command UI-CREATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 06/10/2012 19:27:08:360 00002dac         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 06/10/2012 19:27:08:360 00002474           MainWindow| navigate: 'about:blank'
+I 06/10/2012 19:27:08:360 00003124            RhodesApp| Starting RhodesApp main routine...
+I 06/10/2012 19:27:08:360 00002474           MainWindow| WebView: loading...
+I 06/10/2012 19:27:08:361 00002474           MainWindow| WebView: URL changed
+I 06/10/2012 19:27:08:364 00002474           MainWindow| WebView: loaded 
+I 06/10/2012 19:27:08:370 00003124              RhoRuby| Init_RhoBlobs: C:/Applications/placar-jiu-jitsu/rhosimulator/db/db-files
+I 06/10/2012 19:27:08:373 00003124              RhoRuby| require_compiled: digest
+I 06/10/2012 19:27:08:385 00003124              RhoRuby| require_compiled: rhoframework
+I 06/10/2012 19:27:08:388 00003124              RhoRuby| require_compiled: rational
+I 06/10/2012 19:27:08:389 00003124              RhoRuby| require_compiled: rhom/rhom_db_adapter
+I 06/10/2012 19:27:08:396 00003124              RhoRuby| require_compiled: rhodes
+I 06/10/2012 19:27:08:397 00003124              RhoRuby| require_compiled: rhom/rhom_object
+I 06/10/2012 19:27:08:398 00003124              RhoRuby| require_compiled: rhofsconnector
+I 06/10/2012 19:27:08:399 00003124              RhoRuby| require_compiled: rho/rhofsconnector
+I 06/10/2012 19:27:08:401 00003124              RhoRuby| require_compiled: rhom/rhom_object_factory
+I 06/10/2012 19:27:08:434 00003124              RhoRuby| require_compiled: rhom/rhom
+I 06/10/2012 19:27:08:439 00003124              RhoRuby| require_compiled: rhom/rhom_model
+I 06/10/2012 19:27:08:441 00003124              RhoRuby| require_compiled: rhom
+I 06/10/2012 19:27:08:442 00003124              RhoRuby| require_compiled: rho/rhoapplication
+I 06/10/2012 19:27:08:449 00003124              RhoRuby| require_compiled: rholang/localization_simplified
+I 06/10/2012 19:27:08:453 00003124              RhoRuby| require_compiled: rho/rhomsg
+I 06/10/2012 19:27:08:454 00003124              RhoRuby| require_compiled: rho/rhotabbar
+I 06/10/2012 19:27:08:456 00003124              RhoRuby| require_compiled: rho/rhotoolbar
+I 06/10/2012 19:27:08:456 00003124                  APP| Current locale: ; Country code: 
+I 06/10/2012 19:27:08:456 00003124                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.0.5/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.3.3/lib/framework/rholang/lang_
+I 06/10/2012 19:27:08:456 00003124                  APP| Could not find resources for locale: pt;file: C:/MotorolaRhoMobileSuite2.0.5/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.3.3/lib/framework/rholang/lang_
+I 06/10/2012 19:27:08:457 00003124                  APP| Load english resources.
+I 06/10/2012 19:27:08:457 00003124              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.0.5/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.3.3/lib/framework/rholang/lang_en
+I 06/10/2012 19:27:08:459 00003124                  APP| Locilized file: C:/Applications/placar-jiu-jitsu/app/lang/lang_
+I 06/10/2012 19:27:08:459 00003124                  APP| Could not find resources for locale: pt;file: C:/Applications/placar-jiu-jitsu/app/lang/lang_
+I 06/10/2012 19:27:08:460 00003124                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.0.5/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.3.3/lib/framework/rholang/rhoerror_
+I 06/10/2012 19:27:08:460 00003124                  APP| Could not find resources for locale: pt;file: C:/MotorolaRhoMobileSuite2.0.5/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.3.3/lib/framework/rholang/rhoerror_
+I 06/10/2012 19:27:08:460 00003124                  APP| Load english resources.
+I 06/10/2012 19:27:08:460 00003124              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.0.5/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.3.3/lib/framework/rholang/rhoerror_en
+I 06/10/2012 19:27:08:461 00003124                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.0.5/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.3.3/lib/framework/rholang/rhomsg_
+I 06/10/2012 19:27:08:462 00003124                  APP| Could not find resources for locale: pt;file: C:/MotorolaRhoMobileSuite2.0.5/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.3.3/lib/framework/rholang/rhomsg_
+I 06/10/2012 19:27:08:462 00003124                  APP| Load english resources.
+I 06/10/2012 19:27:08:462 00003124              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.0.5/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.3.3/lib/framework/rholang/rhomsg_en
+I 06/10/2012 19:27:08:463 00003124              RhoRuby| require_compiled: indifferent_access
+I 06/10/2012 19:27:08:466 00003124              RhoRuby| require_compiled: rho/rhosupport
+I 06/10/2012 19:27:08:471 00003124              RhoRuby| require_compiled: rho/rhocontroller
+I 06/10/2012 19:27:08:478 00003124              RhoRuby| require_compiled: rho/render
+I 06/10/2012 19:27:08:485 00003124              RhoRuby| require_compiled: rho/rho
+I 06/10/2012 19:27:08:517 00003124              RhoRuby| require_compiled: rho/rhoerror
+I 06/10/2012 19:27:08:519 00003124              RhoRuby| require_compiled: rhom/rhom_source
+E 06/10/2012 19:27:08:522 00003124              RhoRuby| require_compiled: error: can not find rhodes_translator
+I 06/10/2012 19:27:08:523 00003124              RhoRuby| require_compiled: rho/rhoviewhelpers
+I 06/10/2012 19:27:08:527 00003124              RhoRuby| require_compiled: rho
+I 06/10/2012 19:27:08:528 00003124              RhoRuby| require_compiled: debugger
+I 06/10/2012 19:27:08:555 00003124              RhoRuby| require_compiled: uri
+I 06/10/2012 19:27:08:556 00003124              RhoRuby| require_compiled: uri/common
+I 06/10/2012 19:27:08:588 00003124              RhoRuby| require_compiled: uri/generic
+I 06/10/2012 19:27:08:601 00003124              RhoRuby| require_compiled: uri/ftp
+I 06/10/2012 19:27:08:608 00003124              RhoRuby| require_compiled: uri/http
+I 06/10/2012 19:27:08:611 00003124              RhoRuby| require_compiled: uri/https
+I 06/10/2012 19:27:08:612 00003124              RhoRuby| require_compiled: uri/ldap
+I 06/10/2012 19:27:08:616 00003124              RhoRuby| require_compiled: uri/ldaps
+I 06/10/2012 19:27:08:617 00003124              RhoRuby| require_compiled: uri/mailto
+I 06/10/2012 19:27:08:623 00003124              RhoRuby| require_compiled: timeout
+I 06/10/2012 19:27:09:651 00003124                  APP| [Debugger] Unable to open connection to debugger: #<Errno::ECONNREFUSED: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. - connect(2)>
+I 06/10/2012 19:27:09:651 00003124                  APP| RHO loaded
+I 06/10/2012 19:27:09:651 00003124                  APP| Calling RHO.initialize
+I 06/10/2012 19:27:09:652 00003124              RhoRuby| require_compiled: rhoappmanifest
+I 06/10/2012 19:27:09:653 00003124              RhoRuby| require_compiled: find
+I 06/10/2012 19:27:09:657 00003124                   DB| Open DB: C:/Applications/placar-jiu-jitsu/rhosimulator/db/syncdbuser.sqlite
+I 06/10/2012 19:27:09:658 00003124          GeoLocation| Creating singleton instance.
+I 06/10/2012 19:27:09:658 00003124            RhodesApp| Starting sync engine...
+I 06/10/2012 19:27:09:658 00003124                 Sync| sync_poll_interval: 0
+I 06/10/2012 19:27:09:658 00003124                 Sync| syncserver: 
+I 06/10/2012 19:27:09:658 00003124                 Sync| bulksync_state: 0
+I 06/10/2012 19:27:09:658 00003124            RhodesApp| RhoRubyInitApp...
+I 06/10/2012 19:27:09:658 00003124                  APP| init_app
+I 06/10/2012 19:27:09:658 00003124              RhoRuby| require_compiled: application
+I 06/10/2012 19:27:09:659 00003124           HttpServer| Start HTTP server
+I 06/10/2012 19:27:09:675 00003124           HttpServer| Listen for connections on port 16316
+I 06/10/2012 19:27:09:675 00003124         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
+I 06/10/2012 19:27:09:675 00002dac         AppCallbacks| process command: LOCAL-SERVER-STARTED
+I 06/10/2012 19:27:09:675 00002dac  SystemImpl.cpp: 717| rho_sys_report_app_started() has no implementation on Win Mobile.
+I 06/10/2012 19:27:09:675 00002dac         AppCallbacks| process command: UI-CREATED
+I 06/10/2012 19:27:09:675 00002dac                  Net| Method: GET;Url: http://127.0.0.1:16316/system/uicreated
+I 06/10/2012 19:27:09:744 00003124           HttpServer| Process URI: '/system/uicreated'
+I 06/10/2012 19:27:09:744 00003124                  APP| on_ui_created.navigate to start url: '/app'
+I 06/10/2012 19:27:09:744 00002474           MainWindow| navigate: 'http://127.0.0.1:16316/app'
+I 06/10/2012 19:27:09:745 00002474           MainWindow| WebView: loading...
+I 06/10/2012 19:27:09:745 00002dac         AppCallbacks| process command: APP-ACTIVATED
+I 06/10/2012 19:27:09:745 00002dac                  Net| Method: GET;Url: http://127.0.0.1:16316/system/activateapp
+I 06/10/2012 19:27:09:747 00003124           HttpServer| Process URI: '/system/activateapp'
+I 06/10/2012 19:27:09:748 00002dac         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 06/10/2012 19:27:09:748 00003124           HttpServer| Process URI: '/app'
+I 06/10/2012 19:27:09:750 00003124           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 19:27:09:751 00003124                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 19:27:09:751 00003124 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 19:27:09:751 00003124              RhoRuby| require_compiled: erb
+I 06/10/2012 19:27:09:759 00003124                  APP| eval_compiled_file : C:/Applications/placar-jiu-jitsu/app/index.erb
+I 06/10/2012 19:27:09:761 00003124 RHO Rho::RhoController| index layout
+I 06/10/2012 19:27:09:761 00003124                  APP| eval_compiled_file : C:/Applications/placar-jiu-jitsu/app/layout.erb
+I 06/10/2012 19:27:09:764 00003124           HttpServer| GC Start.
+I 06/10/2012 19:27:09:765 00002474           MainWindow| WebView: URL changed
+I 06/10/2012 19:27:09:766 00003124           HttpServer| GC End.
+I 06/10/2012 19:27:09:792 00003124           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 19:27:09:795 00003124           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 19:27:09:796 00003124           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 19:27:09:798 00003124           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 19:27:09:799 00003124           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 19:27:09:800 00003124           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 19:27:09:869 00003124           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 19:27:09:871 00003124           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 19:27:09:872 00003124           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 19:27:10:015 00003124           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 19:27:10:118 00002474           MainWindow| WebView: loaded 
+I 06/10/2012 19:27:20:627 00002474            RhodesApp| callAppActiveCallback
+I 06/10/2012 19:27:20:627 00002474         AppCallbacks| addCommand: APP-DEACTIVATED
+I 06/10/2012 19:27:20:627 00002474                  Net| Method: GET;Url: http://127.0.0.1:16316/system/deactivateapp
+I 06/10/2012 19:27:20:627 00002dac         AppCallbacks| process command: APP-DEACTIVATED
+I 06/10/2012 19:27:20:628 00002dac         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 06/10/2012 19:27:20:630 00003124           HttpServer| Process URI: '/system/deactivateapp'
+I 06/10/2012 19:27:20:632 00002474                  Net| Method: GET;Url: http://127.0.0.1:16316/system/uidestroyed
+I 06/10/2012 19:27:20:634 00003124           HttpServer| Process URI: '/system/uidestroyed'
+I 06/10/2012 19:27:20:634 00002dac         AppCallbacks| Thread shutdown
+I 06/10/2012 19:27:20:634 00002474           HttpServer| Stopping server...
+I 06/10/2012 19:27:20:636 00003124            RhodesApp| RhodesApp thread shutdown
+I 06/10/2012 19:27:20:636 00003124          GeoLocation| Destroying singleton instance.
+I 06/10/2012 19:27:20:636 00003124                 Sync| Stopping Sync thread
+02ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
 I 06/10/2012 16:44:14:132 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
 I 06/10/2012 16:44:14:189 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
 I 06/10/2012 16:44:14:190 00002ac8           HttpServer| Process URI: '/public/css/android.css'
