@@ -1,0 +1,27 @@
+sdkversion: "3.3.3"
+name: "Placar de Jiu-Jitsu"
+version: "1.0"
+vendor: "rhomobile"
+build: "debug"
+bbver: "4.6"
+applog: "rholog.txt"
+iphone:
+  configuration: "Release"
+  sdk: "iphonesimulator5.0"
+  provisionprofile: 
+  codesignidentity: 
+  entitlements: 
+  BundleIdentifier: "com.rhomobile.placar-jiujitsu"
+  BundleURLScheme: "placar-jiujitsu"
+wp:
+  productid: "7e1c6380-954d-012f-a15c-2a8158ff790b"
+symbian:
+  uid: "0xe713ec10"
+android:
+  version: "2.1"
+  emulator: "Android21"
+extensions:
+  - json
+  - another-extension
+app_type: "rhoelements"
+capabilities: 

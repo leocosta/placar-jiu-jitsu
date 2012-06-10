@@ -1,0 +1,131 @@
+<div id="main-page" data-role="page" data-theme="a" data-content-theme="a">
+
+  <div data-role="header">
+          <h1>Placar de Jiu-Jitsu</h1>
+          <a href="#options-page" data-rel="dialog" data-icon="gear" data-role="button" class="ui-btn-right">Op&ccedil;&otilde;es</a>
+  </div><!-- /header -->
+  <div data-role="content">
+
+        <div data-role="fieldcontain">
+         <div class="ui-grid-a">
+           <div class="ui-block-a">
+             <h3>Cron&ocirc;metro</h3>
+             <div id="timer">0:00</div>
+             <fieldset class="ui-grid-a">
+              <div class="ui-block-a"><a id="start" href="#" data-role="button" data-theme="a">Iniciar</a></div>
+              <div class="ui-block-b"><a id="reset" href="#" data-role="button" data-theme="a">Encerrar</a></div>
+             </fieldset>
+
+            </div>
+              <div class="ui-block-b">
+                <ul>
+                  <li>V - Vantagem</li>
+                  <li>P - Puni&ccedil;&atilde;o</li>
+                  <li>2 - Queda, Raspagem e Joelho na barriga</li>
+                  <li>3 - Passagem de Guarda</li>
+                  <li>4 - Montada e Costas</li>
+                </ul>
+             </div>
+          </div><!-- /grid-a -->
+
+        </div>
+
+       <div class="ui-grid">
+
+          <div class="ui-block-a">
+
+            <div class="ui-body ui-body-d" data-theme="d">
+
+              <h2>Branco</h2>
+              
+              <div class="ui-grid-a">
+                <input id="result-white-total-points" type="text" name="name" value="0" readonly="on"/>
+                <a id="white-undo-last" href="#" data-role="button" data-iconpos="center">DESFAZER</a>
+              </div>
+              
+              <div class="ui-grid-d">
+                <div class="ui-block-a">
+                  <input id="result-white-advantage" type="text" name="name" value="0" readonly="on"/>
+                  <a id="white-advantage" href="#" data-role="button" data-iconpos="center" data-theme="e">V</a>
+                </div>
+                <div class="ui-block-b">
+                  <input id="result-white-penalty" type="text" name="name" value="0"  readonly="on"/>
+                  <a id="white-penalty" href="#" data-role="button" data-iconpos="center" data-theme="r">P</a>
+                </div>
+                <div class="ui-block-c">
+                  <input id="result-white-two-points" type="text" name="name" value="0" readonly="on"/>
+                  <a id="white-two-points" href="#" data-role="button" data-iconpos="center">2</a>
+                </div>
+                <div class="ui-block-d">
+                  <input id="result-white-three-points" type="text" name="name" value="0" readonly="on"/>
+                  <a id="white-three-points" href="#" data-role="button" data-iconpos="center">3</a>
+                </div>
+                <div class="ui-block-e">
+                  <input id="result-white-four-points" type="text" name="name" value="0"  readonly="on"/>
+                  <a id="white-four-points" href="#" data-role="button" data-iconpos="center">4</a>
+                </div>
+              </div><!-- /grid-d -->
+
+            </div> <!-- /body -->
+
+            <div class="ui-body ui-body-b">
+
+              <h2>Azul</h2>
+              <div class="ui-grid-a">
+                <input id="result-blue-total-points" type="text" name="name" value="0" readonly="on"/>
+                <a id="blue-undo-last" href="#" data-role="button" data-iconpos="center">DESFAZER</a>
+              </div>
+              
+              <div class="ui-grid-d">
+                <div class="ui-block-a">
+                  <input id="result-blue-advantage" type="text" name="name" value="0" readonly="on"/>
+                  <a id="blue-advantage" href="javascript:void(0);" data-role="button" data-iconpos="center" data-theme="e">V</a>
+                </div>
+                <div class="ui-block-b">
+                  <input id="result-blue-penalty" type="text" name="name" value="0" readonly="on"/>
+                  <a id="blue-penalty" href="#" data-role="button" data-iconpos="center" data-theme="r">P</a>
+                </div>
+                <div class="ui-block-c">
+                  <input id="result-blue-two-points" type="text" name="name" value="0" readonly="on"/>
+                  <a id="blue-two-points" href="#" data-role="button" data-iconpos="center">2</a>
+                </div>
+                <div class="ui-block-d">
+                  <input id="result-blue-three-points" type="text" name="name" value="0" readonly="on"/>
+                  <a id="blue-three-points" href="#" data-role="button" data-iconpos="center">3</a>
+                </div>
+                <div class="ui-block-e">
+                  <input id="result-blue-four-points" type="text" name="name" value="0" readonly="on"/>
+                  <a id="blue-four-points" href="#" data-role="button" data-iconpos="center">4</a>
+                </div>
+
+              </div><!-- /grid-d -->
+            </div>
+
+          </div> <!-- /body -->
+        </div><!-- /grid-a -->
+
+  </div><!-- /content -->
+  <div data-role="footer">
+    <p>&nbsp;Siga-me no twitter:  @leoccosta</p>
+  </div> <!-- /footer -->
+
+</div><!-- /page -->
+
+<div id="options-page" data-role="page" data-theme="a" data-content-theme="a">
+    <div data-role="content">
+        <fieldset class="ui-grid-a">
+           <label for="select-choice-1">Tempo de luta:</label><br>
+           <select name="select-choice-1" id="select-choice-1" data-native-menu="false" data-overlay-theme="a">
+              <option value="3">3 minutos</option>
+              <option value="4">4 minutos</option>
+              <option value="5">5 minutos</option>
+              <option value="6">6 minutos</option>
+              <option value="7">7 minutos</option>
+              <option value="8">8 minutos</option>
+              <option value="9">9 minutos</option>
+              <option value="10">10 minutos</option>
+           </select>
+          <a href="#main-page" data-role="button" data-transition="pop">Fechar</a>
+        </fieldset>
+    </div><!-- /content -->
+</div><!-- /page -->

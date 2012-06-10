@@ -1,0 +1,523 @@
+I 06/10/2012 16:44:14:191 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:44:14:347 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:44:14:410 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:44:15:355 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:44:15:358 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:44:15:358 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:44:15:358 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:44:15:359 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:44:15:364 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:44:15:364 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:44:15:367 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:44:15:369 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:44:15:369 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:44:15:405 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:44:15:409 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:44:15:411 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:44:15:412 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:44:15:413 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:44:15:414 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:44:15:476 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:44:15:554 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:44:15:557 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:44:15:632 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:44:15:707 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:44:59:374 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:44:59:379 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:44:59:380 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:44:59:380 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:44:59:380 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:44:59:386 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:44:59:387 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:44:59:392 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:44:59:393 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:44:59:397 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:44:59:438 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:44:59:443 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:44:59:445 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:44:59:447 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:44:59:448 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:44:59:449 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:44:59:565 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:44:59:567 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:44:59:568 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:44:59:852 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:44:59:995 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:49:21:023 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:49:21:025 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:49:21:026 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:49:21:026 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:49:21:026 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:49:21:028 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:49:21:028 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:49:21:031 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:49:21:032 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:49:21:033 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:49:21:064 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:49:21:073 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:49:21:075 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:49:21:076 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:49:21:078 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:49:21:082 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:49:21:164 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:49:21:166 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:49:21:167 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:49:21:445 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:49:21:522 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:49:27:808 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:49:27:812 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:49:27:813 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:49:27:813 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:49:27:813 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:49:27:815 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:49:27:815 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:49:27:817 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:49:27:819 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:49:27:819 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:49:27:851 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:49:32:853 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:49:32:855 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:49:32:856 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:49:32:857 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:49:32:858 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:49:32:913 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:49:32:914 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:49:32:915 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:49:33:055 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:49:33:144 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:57:45:787 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:57:45:789 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:57:45:790 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:57:45:790 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:57:45:790 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:57:45:792 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:57:45:792 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:57:45:795 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:57:45:796 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:57:45:796 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:57:45:824 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:57:45:827 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:57:45:829 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:57:45:830 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:57:45:831 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:57:45:832 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:57:45:893 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:57:45:909 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:57:45:912 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:57:46:069 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:57:46:180 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:58:46:336 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:58:46:338 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:58:46:339 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:58:46:339 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:58:46:339 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:58:46:341 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:58:46:341 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:58:46:343 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:58:46:345 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:58:46:345 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:58:46:369 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:58:46:377 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:58:46:379 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:58:46:380 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:58:46:381 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:58:46:382 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:58:46:436 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:58:46:437 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:58:46:438 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:58:46:622 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:58:46:658 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:59:01:423 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:59:01:426 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:59:01:426 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:59:01:427 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:59:01:427 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:59:01:428 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:59:01:429 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:59:01:431 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:59:01:433 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:59:01:434 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:59:01:457 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:59:01:466 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:59:01:468 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:59:01:470 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:59:01:471 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:59:01:473 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:59:01:481 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:59:01:482 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:59:01:554 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:59:01:746 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:59:01:825 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:59:14:443 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:59:14:445 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:59:14:446 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:59:14:446 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:59:14:446 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:59:14:448 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:59:14:448 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:59:14:450 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:59:14:452 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:59:14:452 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:59:14:476 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:59:14:484 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:59:14:486 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:59:14:487 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:59:14:488 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:59:14:489 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:59:14:544 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:59:14:545 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:59:14:546 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:59:14:685 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:59:14:746 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:59:26:092 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:59:26:099 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:59:26:099 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:59:26:099 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:59:26:099 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:59:26:101 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:59:26:101 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:59:26:112 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:59:26:113 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:59:26:119 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:59:26:147 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:59:26:158 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:59:26:161 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:59:26:163 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:59:26:164 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:59:26:165 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:59:26:265 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:59:26:266 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:59:26:267 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:59:26:506 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:59:26:582 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:59:35:230 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:59:35:235 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:59:35:236 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:59:35:236 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:59:35:236 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:59:35:238 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:59:35:238 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:59:35:240 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:59:35:242 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:59:35:243 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:59:35:274 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:59:35:282 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:59:35:284 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:59:35:285 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:59:35:286 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:59:35:287 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:59:35:341 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:59:35:358 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:59:35:360 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:59:35:517 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:59:35:585 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:59:49:695 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:59:49:698 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:59:49:698 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:59:49:698 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:59:49:698 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:59:49:700 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:59:49:700 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:59:49:703 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:59:49:704 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:59:49:706 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:59:49:728 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:59:49:734 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:59:49:736 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:59:49:737 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:59:49:738 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:59:49:739 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:59:49:794 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:59:49:795 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:59:49:796 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:59:49:973 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:59:49:983 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:59:57:801 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:59:57:803 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:59:57:804 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:59:57:804 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:59:57:804 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:59:57:806 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:59:57:806 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:59:57:808 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:59:57:810 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:59:57:811 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:59:57:838 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:59:57:841 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:59:57:843 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:59:57:845 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:59:57:846 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:59:57:848 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:59:57:852 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:59:57:854 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 16:59:57:918 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 16:59:58:106 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 16:59:58:119 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 17:00:47:340 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 17:00:47:344 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 17:00:47:345 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 17:00:47:345 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 17:00:47:345 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 17:00:47:347 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 17:00:47:347 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 17:00:47:349 00002ac8           HttpServer| GC Start.
+I 06/10/2012 17:00:47:351 00002ac8           HttpServer| GC End.
+I 06/10/2012 17:00:47:353 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 17:00:47:376 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 17:00:47:382 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 17:00:47:383 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 17:00:47:385 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 17:00:47:386 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 17:00:47:387 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 17:00:47:476 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 17:00:47:479 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 17:00:47:480 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 17:00:47:751 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 17:00:47:767 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 17:01:30:648 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 17:01:30:650 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 17:01:30:651 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 17:01:30:651 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 17:01:30:651 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 17:01:30:653 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 17:01:30:653 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 17:01:30:656 00002ac8           HttpServer| GC Start.
+I 06/10/2012 17:01:30:657 00002ac8           HttpServer| GC End.
+I 06/10/2012 17:01:30:657 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 17:01:30:682 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 17:01:30:685 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 17:01:30:686 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 17:01:30:688 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 17:01:30:689 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 17:01:30:690 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 17:01:30:750 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 17:01:30:751 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 17:01:30:752 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 17:01:30:929 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 17:01:30:950 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 17:01:40:381 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 17:01:40:396 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 17:01:40:396 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 17:01:40:397 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 17:01:40:397 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 17:01:40:399 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 17:01:40:399 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 17:01:40:402 00002ac8           HttpServer| GC Start.
+I 06/10/2012 17:01:40:403 00002ac8           HttpServer| GC End.
+I 06/10/2012 17:01:40:405 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 17:01:40:438 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 17:01:40:442 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 17:01:40:443 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 17:01:40:444 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 17:01:40:445 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 17:01:40:446 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 17:01:40:512 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 17:01:40:514 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 17:01:40:515 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 17:01:40:699 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 17:01:40:753 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 17:02:27:128 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 17:02:27:130 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 17:02:27:131 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 17:02:27:131 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 17:02:27:131 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 17:02:27:133 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 17:02:27:133 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 17:02:27:135 00002ac8           HttpServer| GC Start.
+I 06/10/2012 17:02:27:137 00002ac8           HttpServer| GC End.
+I 06/10/2012 17:02:27:137 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 17:02:27:164 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 17:02:27:173 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 17:02:27:175 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 17:02:27:176 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 17:02:27:177 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 17:02:27:178 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 17:02:27:237 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 17:02:27:239 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 17:02:27:240 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 17:02:27:498 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 17:02:27:651 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 17:03:37:448 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 17:03:37:450 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 17:03:37:451 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 17:03:37:451 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 17:03:37:451 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 17:03:37:453 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 17:03:37:453 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 17:03:37:455 00002ac8           HttpServer| GC Start.
+I 06/10/2012 17:03:37:457 00002ac8           HttpServer| GC End.
+I 06/10/2012 17:03:37:457 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 17:03:37:486 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 17:03:37:494 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 17:03:37:496 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 17:03:37:497 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 17:03:37:498 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 17:03:37:499 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 17:03:37:554 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 17:03:37:555 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 17:03:37:556 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 17:03:37:738 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 17:03:37:834 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 17:03:40:794 00000a3c            RhodesApp| callAppActiveCallback
+I 06/10/2012 17:03:40:795 00000a3c         AppCallbacks| addCommand: APP-DEACTIVATED
+I 06/10/2012 17:03:40:795 000029b0         AppCallbacks| process command: APP-DEACTIVATED
+I 06/10/2012 17:03:40:795 000029b0         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 06/10/2012 17:03:40:795 00000a3c                  Net| Method: GET;Url: http://127.0.0.1:52103/system/deactivateapp
+I 06/10/2012 17:03:40:820 00002ac8           HttpServer| Process URI: '/system/deactivateapp'
+I 06/10/2012 17:03:40:823 00000a3c                  Net| Method: GET;Url: http://127.0.0.1:52103/system/uidestroyed
+I 06/10/2012 17:03:40:825 00002ac8           HttpServer| Process URI: '/system/uidestroyed'
+I 06/10/2012 17:03:40:825 000029b0         AppCallbacks| Thread shutdown
+I 06/10/2012 17:03:40:826 00000a3c           HttpServer| Stopping server...
+I 06/10/2012 17:03:40:828 00002ac8            RhodesApp| RhodesApp thread shutdown
+I 06/10/2012 17:03:40:829 00002ac8          GeoLocation| Destroying singleton instance.
+I 06/10/2012 17:03:40:829 00002ac8                 Sync| Stopping Sync thread
+ 15:31:35:292 00002ac8           HttpServer| GC Start.
+I 06/10/2012 15:31:35:293 00002ac8           HttpServer| GC End.
+I 06/10/2012 15:31:35:295 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 15:31:35:351 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 15:31:35:356 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 15:31:35:357 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 15:31:35:359 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 15:31:35:359 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 15:31:35:362 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 15:31:35:425 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 15:31:35:426 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 15:31:35:427 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 15:31:35:621 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 15:31:35:665 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 15:31:42:859 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 15:31:42:862 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 15:31:42:862 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 15:31:42:862 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 15:31:42:862 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 15:31:42:864 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 15:31:42:864 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 15:31:42:867 00002ac8           HttpServer| GC Start.
+I 06/10/2012 15:31:42:868 00002ac8           HttpServer| GC End.
+I 06/10/2012 15:31:42:868 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 15:31:42:895 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 15:31:42:903 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 15:31:42:905 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 15:31:42:907 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 15:31:42:908 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 15:31:42:909 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 15:31:42:964 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 15:31:42:965 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 15:31:42:966 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 15:31:43:148 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 15:31:43:222 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 15:33:12:337 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 15:33:12:339 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 15:33:12:339 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 15:33:12:340 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 15:33:12:340 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 15:33:12:341 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 15:33:12:342 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 15:33:12:344 00002ac8           HttpServer| GC Start.
+I 06/10/2012 15:33:12:346 00002ac8           HttpServer| GC End.
+I 06/10/2012 15:33:12:346 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 15:33:12:372 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 15:33:12:380 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 15:33:12:382 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 15:33:12:383 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 15:33:12:384 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 15:33:12:385 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 15:33:12:442 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 15:33:12:443 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 15:33:12:444 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 15:33:12:637 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 15:33:12:719 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 15:33:17:763 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 15:33:17:765 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 15:33:17:766 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 15:33:17:766 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 15:33:17:766 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 15:33:17:768 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 15:33:17:768 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 15:33:17:770 00002ac8           HttpServer| GC Start.
+I 06/10/2012 15:33:17:772 00002ac8           HttpServer| GC End.
+I 06/10/2012 15:33:17:772 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 15:33:17:798 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 15:33:17:806 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 15:33:17:808 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 15:33:17:809 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 15:33:17:810 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 15:33:17:811 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 15:33:17:867 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 15:33:17:868 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 15:33:17:869 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 15:33:18:043 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 15:33:18:120 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 15:33:36:959 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 15:33:36:962 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 15:33:36:962 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 15:33:36:962 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 15:33:36:962 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 15:33:36:964 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 15:33:36:964 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 15:33:36:967 00002ac8           HttpServer| GC Start.
+I 06/10/2012 15:33:36:968 00002ac8           HttpServer| GC End.
+I 06/10/2012 15:33:36:968 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 15:33:36:994 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 15:33:37:003 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 15:33:37:004 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 15:33:37:005 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 15:33:37:006 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 15:33:37:007 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 15:33:37:074 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 15:33:37:076 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 15:33:37:078 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 15:33:37:212 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 15:33:37:301 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 15:36:10:604 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 15:36:10:607 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 15:36:10:607 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 15:36:10:608 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 15:36:10:608 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 15:36:10:610 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 15:36:10:610 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 15:36:10:612 00002ac8           HttpServer| GC Start.
+I 06/10/2012 15:36:10:614 00002ac8           HttpServer| GC End.
+I 06/10/2012 15:36:10:614 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 15:36:10:640 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 15:36:10:650 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 15:36:10:651 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 15:36:10:653 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 15:36:10:654 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 15:36:10:654 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 15:36:10:706 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 15:36:10:721 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+I 06/10/2012 15:36:10:722 00002ac8           HttpServer| Process URI: '/public/css/layout.css'
+I 06/10/2012 15:36:10:868 00002ac8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 06/10/2012 15:36:10:951 00000a3c           MainWindow| WebView: loaded 
+I 06/10/2012 16:33:18:660 00000a3c            RhodesApp| callAppActiveCallback
+I 06/10/2012 16:33:18:661 00000a3c         AppCallbacks| addCommand: APP-DEACTIVATED
+I 06/10/2012 16:33:18:661 00000a3c                  Net| Method: GET;Url: http://127.0.0.1:52103/system/deactivateapp
+I 06/10/2012 16:33:18:661 000029b0         AppCallbacks| process command: APP-DEACTIVATED
+I 06/10/2012 16:33:18:661 000029b0         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 06/10/2012 16:33:18:948 00002ac8           HttpServer| Process URI: '/system/deactivateapp'
+I 06/10/2012 16:44:11:800 00000a3c            RhodesApp| callAppActiveCallback
+I 06/10/2012 16:44:11:800 00000a3c         AppCallbacks| addCommand: APP-ACTIVATED
+I 06/10/2012 16:44:11:801 000029b0         AppCallbacks| process command: APP-ACTIVATED
+I 06/10/2012 16:44:11:801 000029b0                  Net| Method: GET;Url: http://127.0.0.1:52103/system/activateapp
+I 06/10/2012 16:44:11:810 00002ac8           HttpServer| Process URI: '/system/activateapp'
+I 06/10/2012 16:44:11:811 000029b0         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 06/10/2012 16:44:14:079 00000a3c           MainWindow| WebView: loading...
+I 06/10/2012 16:44:14:081 00002ac8           HttpServer| Process URI: '/app/index.erb'
+I 06/10/2012 16:44:14:082 00002ac8                  APP| RHO serve_index: /app/index.erb
+I 06/10/2012 16:44:14:082 00002ac8 RHO Rho::RhoController| inst_render_index
+I 06/10/2012 16:44:14:082 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/index.erb
+I 06/10/2012 16:44:14:084 00002ac8 RHO Rho::RhoController| index layout
+I 06/10/2012 16:44:14:084 00002ac8                  APP| eval_compiled_file : C:/Applications/placar-jiujitsu/app/layout.erb
+I 06/10/2012 16:44:14:086 00002ac8           HttpServer| GC Start.
+I 06/10/2012 16:44:14:088 00002ac8           HttpServer| GC End.
+I 06/10/2012 16:44:14:088 00000a3c           MainWindow| WebView: URL changed
+I 06/10/2012 16:44:14:116 00002ac8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 06/10/2012 16:44:14:127 00002ac8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 06/10/2012 16:44:14:128 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 06/10/2012 16:44:14:130 00002ac8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 06/10/2012 16:44:14:131 00002ac8           HttpServer| Process URI: '/public/js/scoreboard.js'
+I 06/10/2012 16:44:14:132 00002ac8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 06/10/2012 16:44:14:189 00002ac8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 06/10/2012 16:44:14:190 00002ac8           HttpServer| Process URI: '/public/css/android.css'
+gine...
