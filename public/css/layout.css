@@ -8,8 +8,8 @@
     .ui-field-contain:first-child {margin: 0}
     .ui-controlgroup-controls, .ui-select, input.ui-input-text, textarea.ui-input-text, .ui-input-search { margin-left:3px; padding: 0.5em 0.7em; font-weight:bold; line-height: 1.4; text-align: center; font-size: 16px;}
     
-    #result-white-total-points, #result-blue-total-points { width:52%; float:left }
-    #white-undo-last, #blue-undo-last {float:right; width:38%; padding:0.1em;}
+    #result-white-total-points, #result-blue-total-points { width:51%; float:left }
+    #white-undo-last, #blue-undo-last {float:right; width:37%; padding:0.1em;}
     #timer {font-size: 5em;}
 
 
